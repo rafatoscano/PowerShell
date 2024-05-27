@@ -1,0 +1,51 @@
+{
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2024-04-13T02:40:05.578-00:00",
+	"Sources" : 
+	[
+		{
+			"Arg" : "https://cdn.winget.microsoft.com/cache",
+			"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+			"Name" : "winget",
+			"Type" : "Microsoft.PreIndexed.Package",
+			"SourceDetails" : {
+				"Argument" : "https://cdn.winget.microsoft.com/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
+			},
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "AnyDeskSoftwareGmbH.AnyDesk",
+					"AcceptPackageAgreements": true
+				},
+				{
+					"PackageIdentifier" : "Dropbox.Dropbox",
+					"AcceptPackageAgreements": true
+				},
+				{
+					"PackageIdentifier" : "ONLYOFFICE.DesktopEditors",
+					"AcceptPackageAgreements": true
+				},
+				{
+					"PackageIdentifier" : "Piriform.Recuva",
+					"AcceptPackageAgreements": true
+				},
+				{
+					"PackageIdentifier" : "Zoom.Zoom",
+					"AcceptPackageAgreements": true
+				},
+				{
+					"PackageIdentifier" : "7zip.7zip",
+					"AcceptPackageAgreements": true
+				},
+				{
+					"PackageIdentifier" : "OpenMedia.4KVideoDownloader",
+					"AcceptPackageAgreements": true
+				}
+			]
+		}
+	],
+	"WinGetVersion" : "1.7.10861"
+}
